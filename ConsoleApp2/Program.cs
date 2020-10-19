@@ -8,7 +8,7 @@ namespace ConsoleApp2
         {
 
             //deneme yapıyorum
-
+            //kjhlkjh
 
             Console.WriteLine("test");
             
